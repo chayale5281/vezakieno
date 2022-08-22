@@ -11,4 +11,8 @@ public class aaa {
         Scanner myObj = new Scanner(System.in);
         String dd = myObj.nextLine();
     }
+    public int mull (int a )
+    {
+        return  a*a;
+    }
 }
