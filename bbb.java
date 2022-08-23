@@ -3,4 +3,8 @@ public class bbb {
     {
         System.out.println("kkk");
     }
+    public void ddd()
+    {
+        System.out.println("ddd");
+    }
 }
